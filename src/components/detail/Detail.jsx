@@ -29,21 +29,21 @@ const Detail = () => {
           <div className="photos">
             <div className="photoItem">
               <div className="photoDetail">
-                <img src="" alt="" />
+                <img src="./avatar.png" alt="" />
                 <span>photo_2024_2.png</span>
               </div>
               <img src="./download.png" alt="" className="icon" />
             </div>
             <div className="photoItem">
               <div className="photoDetail">
-                <img src="" alt="" />
+                <img src="./avatar.png" alt="" />
                 <span>photo_2024_2.png</span>
               </div>
               <img src="./download.png" alt="" className="icon" />
             </div>
             <div className="photoItem">
               <div className="photoDetail">
-                <img src="" alt="" />
+                <img src="./avatar.png" alt="" />
                 <span>photo_2024_2.png</span>
               </div>
               <img src="./download.png" alt="" className="icon" />
